@@ -1,6 +1,6 @@
 fork this project from https://github.com/django-oscar/django-oscar
 
-git clone git@github.com:navicester/django-oscar.git
+git clone ```git@github.com:navicester/django-oscar.git```
 
 python setup.py install
  - pip install six
