@@ -9,3 +9,5 @@ python setup.py install
  - pip install django_debug_toolbar (NOT debug_toolbar)
  - pip install Whoosh
 
+python manage.py migrate
+python manage.py createsuperuser
