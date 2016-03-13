@@ -1,6 +1,6 @@
 fork this project from https://github.com/django-oscar/django-oscar
 
-clone to local
+git clone git@github.com:navicester/django-oscar.git
 
 python setup.py install
  - pip install six
@@ -10,4 +10,5 @@ python setup.py install
  - pip install Whoosh
 
 python manage.py migrate
+
 python manage.py createsuperuser
