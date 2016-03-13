@@ -9,6 +9,10 @@ python setup.py install
  - pip install django_debug_toolbar (NOT debug_toolbar)
  - pip install Whoosh
 
+http://django-oscar.readthedocs.org/en/latest/internals/sandbox.html
+
+sites\sanbox
+
 python manage.py migrate
 
 python manage.py createsuperuser
